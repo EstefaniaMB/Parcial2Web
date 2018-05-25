@@ -1,4 +1,25 @@
-
-#inicio{}
-#contactos{}
-#proyectos{}
+* {
+    padding: 0;
+    margin: 0;
+}
+#inicio{.contenido{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 500;
+    margin: 0 auto;
+    background: pink;
+    padding: 1em;
+}}
+#contactos{.contenido{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 500;
+    margin: 0 auto;
+    background: pink;
+    padding: 1em;
+}}
+#proyectos{}.contenido{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 500;
+    margin: 0 auto;
+    background: pink;
+    padding: 1em;
+}
