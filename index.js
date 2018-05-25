@@ -47,9 +47,9 @@ var getHTML = function (titulo) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>${titulo}</title>
-    <link rel="stylesheet" href="../public/css/main.css">    
+    <link rel="stylesheet" href="../css/main.css">    
 </head>
-<body>
+<body id="inicio">
     <div class="contenido">
         <h1>${titulo}</h1>
         <ul>
